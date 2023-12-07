@@ -1,0 +1,20 @@
+D:\Winform\W11\W11\W11\bin\Debug\W11.exe.config
+D:\Winform\W11\W11\W11\bin\Debug\W11.exe
+D:\Winform\W11\W11\W11\bin\Debug\W11.pdb
+D:\Winform\W11\W11\W11\obj\Debug\W11.csproj.AssemblyReference.cache
+D:\Winform\W11\W11\W11\obj\Debug\W11.Form1.resources
+D:\Winform\W11\W11\W11\obj\Debug\W11.Properties.Resources.resources
+D:\Winform\W11\W11\W11\obj\Debug\W11.csproj.GenerateResource.cache
+D:\Winform\W11\W11\W11\obj\Debug\W11.csproj.CoreCompileInputs.cache
+D:\Winform\W11\W11\W11\obj\Debug\W11.exe
+D:\Winform\W11\W11\W11\obj\Debug\W11.pdb
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\bin\Debug\W11.exe.config
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\bin\Debug\W11.exe
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\bin\Debug\W11.pdb
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\obj\Debug\W11.csproj.AssemblyReference.cache
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\obj\Debug\W11.Form1.resources
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\obj\Debug\W11.Properties.Resources.resources
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\obj\Debug\W11.csproj.GenerateResource.cache
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\obj\Debug\W11.csproj.CoreCompileInputs.cache
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\obj\Debug\W11.exe
+C:\Tai lieu cua Phuc\Nam 3 ki 1\lap trinh winform\W11\W11\obj\Debug\W11.pdb
